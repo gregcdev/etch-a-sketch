@@ -1,0 +1,17 @@
+button {
+	display: block;
+	text-align: center;
+	margin: 5px auto;
+}
+.wrapper {
+	width: 600px;
+	height: 600px;
+	border: 2px #444 solid;
+	margin: 30px auto;
+}
+.grid-item {
+	display: inline-block;
+	height: 100%;
+}
+.row {
+}
